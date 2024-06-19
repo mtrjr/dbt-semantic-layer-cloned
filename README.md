@@ -1,3 +1,5 @@
+Fuente original: https://github.com/dbt-labs/Semantic-Layer-Online-Course
+
 Welcome to your new dbt project!
 
 ### Using the starter project
